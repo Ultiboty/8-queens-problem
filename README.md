@@ -6,7 +6,8 @@ The app requires you to install the following:
 1. dosbox
 2. TASM
 3. the code and all of the bmps should be stored in the TASM folder. prefferd inside a folder called bin.
-![צילום מסך 2023-06-25 164303](https://github.com/Ultiboty/8-queens-problem/assets/99267952/45f3b667-1f19-4551-9cb6-36abb8758312)
+![g](https://github.com/Ultiboty/8-queens-problem/assets/99267952/00521ae5-c1ca-4a8b-9f5f-22f52a7bc53b)
+
 ## startup
 1. open dosbox
 2. mount the driver your tasm is on using "mount d: d:\" (same goes for c:) and then "cycles = max"
