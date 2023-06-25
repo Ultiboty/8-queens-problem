@@ -11,10 +11,10 @@ The app requires you to install the following:
 ## startup
 1. open dosbox
 2. mount the driver your tasm is on using "mount d: d:\" (same goes for c:) and then "cycles = max"
-4. change to driver using "d:" / "c:"
-5. change to the path
-6. write "tasm /zi codefilename.asm" and after you enter write "tlink /v cofefilename.obj" (note that after doing this step once it can be skiped next times)
-7. write "codefilename"
+3. change to driver using "d:" / "c:"
+4. change to the path
+5. write "tasm /zi codefilename.asm" and after you enter write "tlink /v cofefilename.obj" (note that after doing this step once it can be skiped next times)
+6. write "codefilename"
 
 
 
