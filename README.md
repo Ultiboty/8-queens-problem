@@ -14,5 +14,8 @@ The app requires you to install the following:
 4. change to driver using "d:" / "c:"
 5. change to the path
 6. write "tasm /zi codefilename.asm" and after you enter write "tlink /v cofefilename.obj" (note that after doing this step once it can be skiped next times)
-7. write "codefilename" 
+7. write "codefilename"
+
+
+
 ![image](https://github.com/Ultiboty/8-queens-problem/assets/99267952/0efee2cd-a24a-4733-8143-3db68e94d766)
