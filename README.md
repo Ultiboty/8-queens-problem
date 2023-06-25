@@ -24,7 +24,7 @@ The app requires you to install the following:
 the program has 3 options
 1. solve: gives you a solution to the problem.
 2. Try: lets you try to solve by yourself.
-3. clear: clears the board.
+3. reset: clears the board.
 
 
 
