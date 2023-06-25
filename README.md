@@ -19,3 +19,12 @@ The app requires you to install the following:
 
 
 ![image](https://github.com/Ultiboty/8-queens-problem/assets/99267952/0efee2cd-a24a-4733-8143-3db68e94d766)
+
+## usage
+the program has 3 options
+1. solve: gives you a solution to the problem.
+2. Try: lets you try to solve by yourself.
+3. clear: clears the board.
+   ![image](https://github.com/Ultiboty/8-queens-problem/assets/99267952/cb5f8d1a-cdc0-4869-9e8e-771ce700dcd7)
+
+might still add another button for the hole ;) , so you have what to wait for.
